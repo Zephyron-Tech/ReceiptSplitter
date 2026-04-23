@@ -1,0 +1,19 @@
+# Node
+node_modules/
+
+# Java / Maven build output
+target/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# OS / editor
+.DS_Store
+.idea/
+.vscode/
+
+# Logs
+*.log
